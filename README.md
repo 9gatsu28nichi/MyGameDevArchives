@@ -10,7 +10,7 @@
 
 ## Youtube Video
 - [กับดักเกม story TH-LANG](https://www.youtube.com/live/8ALvndY4wps?feature=share)
-- [ประสบการณ์การเป็นเกมดีไซเนอร์ในไทย TH-LANG] (https://www.youtube.com/live/K3V8QtNc248?feature=share)
-- [ประสบการณ์การทำงานของกราฟิกโปรแกรมเมอร์ในบริษัท AAA TH-LANG] (https://www.youtube.com/live/WdCaXoJ9Fpg?feature=share)
-- [แนะแนวเกมดีไซน์โดยคนไทยใน SQUARE ENIX TH-LANG] (https://www.youtube.com/live/Pau5P1VRb9s?feature=share)
-- [คุยกับหัวหน้าฝ่ายจาก Creative Assembly TH-LANG] (https://www.youtube.com/live/TCLHFhhHhHY?feature=share)
+- [ประสบการณ์การเป็นเกมดีไซเนอร์ในไทย TH-LANG](https://www.youtube.com/live/K3V8QtNc248?feature=share)
+- [ประสบการณ์การทำงานของกราฟิกโปรแกรมเมอร์ในบริษัท AAA TH-LANG](https://www.youtube.com/live/WdCaXoJ9Fpg?feature=share)
+- [แนะแนวเกมดีไซน์โดยคนไทยใน SQUARE ENIX TH-LANG](https://www.youtube.com/live/Pau5P1VRb9s?feature=share)
+- [คุยกับหัวหน้าฝ่ายจาก Creative Assembly TH-LANG](https://www.youtube.com/live/TCLHFhhHhHY?feature=share)
