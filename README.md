@@ -9,3 +9,4 @@
 ## Medium Blog
 
 ## Youtube Video
+- [กับดักเกม story](https://www.youtube.com/live/8ALvndY4wps?feature=share)
