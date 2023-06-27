@@ -15,3 +15,5 @@
 - [ประสบการณ์การทำงานของกราฟิกโปรแกรมเมอร์ในบริษัท AAA](https://www.youtube.com/live/WdCaXoJ9Fpg?feature=share)
 - [แนะแนวเกมดีไซน์โดยคนไทยใน SQUARE ENIX](https://www.youtube.com/live/Pau5P1VRb9s?feature=share)
 - [คุยกับหัวหน้าฝ่ายจาก Creative Assembly](https://www.youtube.com/live/TCLHFhhHhHY?feature=share)
+## News Resources
+- [gameindustry.biz](https://www.gamesindustry.biz)
