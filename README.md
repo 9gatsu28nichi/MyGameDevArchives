@@ -17,4 +17,5 @@
 - [คุยกับหัวหน้าฝ่ายจาก Creative Assembly](https://www.youtube.com/live/TCLHFhhHhHY?feature=share)
 ## News Resources and Community TH/ENG
 - [gameindustry.biz](https://www.gamesindustry.biz)
-- [Thai Game Industry Career](https://m.facebook.com/groups/ThaiGameCareerGroup/?ref=share)
+- [Facebook Thai Game Industry Career](https://m.facebook.com/groups/ThaiGameCareerGroup/?ref=share)
+- [Facebook Thai Game Developers Corner (TGDC)](https://m.facebook.com/groups/thaigamepad/?ref=share)
