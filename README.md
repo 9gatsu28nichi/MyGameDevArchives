@@ -6,7 +6,7 @@
 - [anything_about_game](https://github.com/killop/anything_about_game) 
 - [game-book-list](https://github.com/killop/game-book-list)
 
-## Industry Insight
+## Industry Insight TH/ENG
 - [Game Industry Value Chain](https://www.slideshare.net/missstevenson01/game-value-chain)
 - [Door Problem by **Liz England**](https://lizengland.com/blog/2014/04/the-door-problem/)
 - [Careers in games - ScreenSkills](https://www.screenskills.com/job-profiles/browse/games/)
