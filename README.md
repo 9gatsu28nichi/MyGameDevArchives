@@ -17,3 +17,4 @@
 - [คุยกับหัวหน้าฝ่ายจาก Creative Assembly](https://www.youtube.com/live/TCLHFhhHhHY?feature=share)
 ## News Resources and Community TH and ENG
 - [gameindustry.biz](https://www.gamesindustry.biz)
+- https://m.facebook.com/groups/ThaiGameCareerGroup/?ref=share
