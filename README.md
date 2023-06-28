@@ -8,6 +8,7 @@
 
 ## Industry Insight
 - [Game Industry Value Chain](https://www.slideshare.net/missstevenson01/game-value-chain)
+- [Door Problem by **Liz England**](https://lizengland.com/blog/2014/04/the-door-problem/)
 
 ## Youtube Video TH/ENG
 ### The Level Up Show
