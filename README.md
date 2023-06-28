@@ -6,7 +6,8 @@
 - [anything_about_game](https://github.com/killop/anything_about_game) 
 - [game-book-list](https://github.com/killop/game-book-list)
 
-## Medium Blog
+## Industry Insight
+- [Game Industry Value Chain](https://www.slideshare.net/missstevenson01/game-value-chain)
 
 ## Youtube Video TH/ENG
 ### The Level Up Show
