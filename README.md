@@ -30,3 +30,6 @@
 - [gameindustry.biz](https://www.gamesindustry.biz)
 - [Facebook Thai Game Industry Career](https://m.facebook.com/groups/ThaiGameCareerGroup/?ref=share)
 - [Facebook Thai Game Developers Corner (TGDC)](https://m.facebook.com/groups/thaigamepad/?ref=share)
+
+## Anime To Boost Your Motivation About GameDevelopment
+-[New Game!](https://myanimelist.net/anime/31953/New_Game)
