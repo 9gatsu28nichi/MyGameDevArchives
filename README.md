@@ -6,6 +6,9 @@
 - [anything_about_game](https://github.com/killop/anything_about_game) 
 - [game-book-list](https://github.com/killop/game-book-list)
 
+## Google Sheet Resources
+- [Alan's Gamedev Resources Sheet](https://docs.google.com/spreadsheets/d/11g8MCMFNrBM0CXIWrT8bej5vqR1fCJGMhoFfbS5ph3Q/edit?usp=drivesdk)
+
 ## Industry Insight TH/ENG
 - [Game Industry Value Chain](https://www.slideshare.net/missstevenson01/game-value-chain)
 - [Door Problem by **Liz England**](https://lizengland.com/blog/2014/04/the-door-problem/)
@@ -23,4 +26,3 @@
 - [gameindustry.biz](https://www.gamesindustry.biz)
 - [Facebook Thai Game Industry Career](https://m.facebook.com/groups/ThaiGameCareerGroup/?ref=share)
 - [Facebook Thai Game Developers Corner (TGDC)](https://m.facebook.com/groups/thaigamepad/?ref=share)
-## Google Sheet
