@@ -1,4 +1,3 @@
-
 ## GameDevArchives
 > Learn as if you will live forever
 >
