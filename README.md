@@ -17,6 +17,7 @@
 - [Door Problem by **Liz England**](https://lizengland.com/blog/2014/04/the-door-problem/)
 - [Careers in games - ScreenSkills](https://www.screenskills.com/job-profiles/browse/games/)
 - [Let's discuss about missunderstanding of Game Producer, Game Designer, and Game Testing Role by **Nattha Kunruchatapairoj**](https://www.blockdit.com/posts/60026e3fd349950cc8f787d7?fbclid=IwAR0RDqjzH3AZr5hjVg-mmoGsshKQTJOZyFx0wgCvG6t0U50PMJkqIW8FK3g_aem_AbyEy30ibJVvnmrOicSdZeaXSR7K1zMWnCsVvDcanUKGIPHdr_Cw_NRrZTMfpsN3FDU)
+- [Global GameDev Salaries 2020-2021 by **@EvvaKarr**(https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit)
 
 ## Youtube Video TH/ENG
 ### The Level Up Show
