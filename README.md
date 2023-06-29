@@ -23,5 +23,4 @@
 - [gameindustry.biz](https://www.gamesindustry.biz)
 - [Facebook Thai Game Industry Career](https://m.facebook.com/groups/ThaiGameCareerGroup/?ref=share)
 - [Facebook Thai Game Developers Corner (TGDC)](https://m.facebook.com/groups/thaigamepad/?ref=share)
-## Course
-- [Introduction To Go Development](https://www.codecademy.com/learn/introduction-to-game-development)
+## Google Sheet
