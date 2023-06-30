@@ -32,4 +32,4 @@
 - [Facebook Thai Game Developers Corner (TGDC)](https://m.facebook.com/groups/thaigamepad/?ref=share)
 
 ## Anime To Boost Your Motivation About GameDevelopment
-- [New Game!](https://myanimelist.net/anime/31953/New_Game)
+- [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
