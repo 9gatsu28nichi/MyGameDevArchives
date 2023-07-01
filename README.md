@@ -49,7 +49,7 @@
 ### Books
 - [The Unity Shaders Bible](https://www.amazon.com/Unity-Shaders-Bible-explanation-professional/dp/B0B4L6VQNF)
 ### GitHub Resources
-### Unity
+### Unity Shader
 - https://github.com/ColinLeung-NiloCat
 - https://github.com/ChiliMilk/URP_Toon
 - https://github.com/NoiRC256/URPSimpleGenshinShaders
