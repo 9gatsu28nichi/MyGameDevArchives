@@ -17,6 +17,7 @@
 - [Careers in games - ScreenSkills](https://www.screenskills.com/job-profiles/browse/games/)
 - [Let's discuss about missunderstanding of Game Producer, Game Designer, and Game Testing Role](https://www.blockdit.com/posts/60026e3fd349950cc8f787d7?fbclid=IwAR0RDqjzH3AZr5hjVg-mmoGsshKQTJOZyFx0wgCvG6t0U50PMJkqIW8FK3g_aem_AbyEy30ibJVvnmrOicSdZeaXSR7K1zMWnCsVvDcanUKGIPHdr_Cw_NRrZTMfpsN3FDU)  by **Nattha Kunruchatapairoj**
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit) by **@EvvaKarr**
+- [แนะนำการเขียน Game Design Document: ส่วน Design Goal](https://tuangd.com/2023/06/28/แนะนำการเขียน-game-design-document-ส่วน-design-goal/?fbclid=IwAR2U6lSwHrMcQnSrdEIh8XTy-dCHz7IbdxjoZtTYUHi_0KtcIe3rzklpU44_aem_AfSLbLo5ZpaY-fKEYs6NNUE4kHyDrypgAzaATNCa3qjogcI2BucKBhT50yH3EU-oMiU) by Tuang Dheandhanoo
 
 ## Youtube Video TH/ENG
 - [กับดักเกม story](https://www.youtube.com/live/8ALvndY4wps?feature=share)
