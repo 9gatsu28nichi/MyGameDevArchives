@@ -57,8 +57,6 @@
 - https://github.com/NoiRC256/URPSimpleGenshinShaders
 - https://github.com/Unity-Technologies/PostProcessing
 
-## About Unity
-
 ## Game Hacking & Reverse Engineering
 ### ⚠️THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES!!! hacking is a **double-edged sword** pls use your knowledge for the greater good and never use knowledge you learned to harm people.
 - [Game Hacking Resources](https://github.com/dsasmblr/game-hacking)
