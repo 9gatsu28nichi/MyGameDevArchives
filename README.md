@@ -37,8 +37,9 @@
 ## My Medium Resource
 - https://medium.com/@liseishun889/list/338193aa212e
 
-## Anime To Boost Your Motivation About GameDevelopment
+## Anime To Boost Your Motivation
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
+
 <h1 align="center">Self-interest</h1>
 
 ## Game Design Books
