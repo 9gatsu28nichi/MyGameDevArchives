@@ -50,6 +50,7 @@
 ### Books
 - [The Unity Shaders Bible](https://www.amazon.com/Unity-Shaders-Bible-explanation-professional/dp/B0B4L6VQNF)
 ### GitHub Resources
+- https://github.com/youandhubris/HLSL-Library
 ### Unity Shader
 - https://github.com/ColinLeung-NiloCat
 - https://github.com/ChiliMilk/URP_Toon
