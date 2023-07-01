@@ -39,4 +39,5 @@
 <h1 align="center">Self-interest</h1>
 
 ## Game Design Books
-- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by Jesse Schell
+- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by Jesse 
+- [The Unity Shaders Bible](https://www.amazon.com/Unity-Shaders-Bible-explanation-professional/dp/B0B4L6VQNF)
