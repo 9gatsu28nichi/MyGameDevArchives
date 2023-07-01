@@ -43,7 +43,7 @@
 <h1 align="center">Self-interest</h1>
 
 ## Game Design Books
-- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by Jesse 
+- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by **Jesse** 
 
 ## Game Graphic
 ### Books
@@ -52,5 +52,6 @@
 #### URP
 - https://github.com/ColinLeung-NiloCat
 - https://github.com/ChiliMilk/URP_Toon
+- https://github.com/NoiRC256/URPSimpleGenshinShaders
 
 
