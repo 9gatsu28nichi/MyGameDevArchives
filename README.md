@@ -19,7 +19,6 @@
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit) by **@EvvaKarr**
 
 ## Youtube Video TH/ENG
-### The Level Up Show
 - [กับดักเกม story](https://www.youtube.com/live/8ALvndY4wps?feature=share)
 - [ประสบการณ์การเป็นเกมดีไซเนอร์ในไทย](https://www.youtube.com/live/K3V8QtNc248?feature=share)
 - [ประสบการณ์การทำงานของกราฟิกโปรแกรมเมอร์ในบริษัท AAA](https://www.youtube.com/live/WdCaXoJ9Fpg?feature=share)
