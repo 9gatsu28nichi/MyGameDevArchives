@@ -67,7 +67,7 @@
 - [5 Best Resources To Learn Game Hacking](https://medium.com/edopedia/learn-game-hacking-4b357c377aa1)
 - [Introduction To Learn Game Hacking](https://medium.com/ax1al/introduction-to-game-hacking-fb70e29de60f)
 ### Tools
-<br>
+
 - [noclip](https://github.com/magcius/noclip.website)
 - [Cheat Engine](https://github.com/cheat-engine/cheat-engine)
 
