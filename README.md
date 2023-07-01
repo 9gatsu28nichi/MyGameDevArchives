@@ -1,4 +1,4 @@
-## GameDevArchives
+<h1 align="center">GameDevArchives</h1>
 > "Learn as if you will live forever, live as if you will die tomorrow."
 
 ## GitHub Resources
