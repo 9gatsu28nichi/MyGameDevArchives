@@ -1,5 +1,5 @@
-<h1 align="center">GameDevArchives</h1>
- "Learn as if you will live forever, live as if you will die tomorrow."
+# GameDevArchives
+"We don't always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond." -Mark Manson
 
 ## GitHub Resources
 - [anything_about_game](https://github.com/killop/anything_about_game) 
@@ -41,7 +41,7 @@
 ## Anime To Boost Your Motivation
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
 
-<h1 align="center">Self-interest</h1>
+# Self-interest
 
 ## Game Design Books
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by **Jesse** 
