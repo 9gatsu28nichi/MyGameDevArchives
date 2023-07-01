@@ -10,7 +10,7 @@
 ## Google Sheet Resources
 - [**Alan's** Gamedev Resources Sheet](https://docs.google.com/spreadsheets/d/11g8MCMFNrBM0CXIWrT8bej5vqR1fCJGMhoFfbS5ph3Q/edit?usp=drivesdk)
 - [Game Production Community - Resource Repository](https://docs.google.com/spreadsheets/d/1InZGhpGAvsLRVsfrWSF16QiOKa8Xsr2Ky-KwGcFAFFs/edit?usp=drivesdk)
-- [List of Thai Gaming Companies & Gaming Companies operating in Thailand by **Ekaraj Srikureja**](https://docs.google.com/spreadsheets/d/1AJ-pMh7wtuf-CHeSWk4EHAypRJluY-HWK3isXs1G39s/edit)
+- [List of Thai Gaming Companies & Gaming Companies operating in Thailand](https://docs.google.com/spreadsheets/d/1AJ-pMh7wtuf-CHeSWk4EHAypRJluY-HWK3isXs1G39s/edit) by **Ekaraj Srikureja**
 
 ## Industry Insight TH/ENG
 - [Game Industry Value Chain](https://www.slideshare.net/missstevenson01/game-value-chain)
