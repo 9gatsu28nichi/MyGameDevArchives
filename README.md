@@ -57,14 +57,15 @@ This section focuses on my personal areas of interest, which include game graphi
 - https://github.com/Unity-Technologies/PostProcessing
 
 ## Game Hacking & Reverse Engineering
-### ⚠️THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES!!! hacking is a **double-edged sword** pls use your knowledge for the greater good and never use knowledge you learned to harm people.
+⚠️THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES!!! hacking is a **double-edged sword** pls use your knowledge for the greater good and never use knowledge you learned to harm people.
+
+### Resources
 - [Game Hacking Resources](https://github.com/dsasmblr/game-hacking)
 - [What is Reverse Engineering](https://youtu.be/0_Eif2qGK7I)
 - [How to Reverse Engineering](https://youtu.be/suABtb8_2Zk)
 - [5 Best Resources To Learn Game Hacking](https://medium.com/edopedia/learn-game-hacking-4b357c377aa1)
 - [Introduction To Learn Game Hacking](https://medium.com/ax1al/introduction-to-game-hacking-fb70e29de60f)
 ### Tools
-
 - [noclip](https://github.com/magcius/noclip.website)
 - [Cheat Engine](https://github.com/cheat-engine/cheat-engine)
 
