@@ -31,6 +31,8 @@
 - [Facebook Thai Game Developers Corner (TGDC)](https://m.facebook.com/groups/thaigamepad/?ref=share)
 - [Unity Blog](https://blog.unity.com/)
 - [Unreal Engine News & Blog](https://www.unrealengine.com/en-US/feed)
+- [Game Developer](https://www.gamedeveloper.com/)
+- [Medium](https://medium.com/tag/game-development)
 
 ## Anime To Boost Your Motivation About GameDevelopment
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
