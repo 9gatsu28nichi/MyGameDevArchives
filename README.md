@@ -1,7 +1,5 @@
 ## GameDevArchives
-> Learn as if you will live forever
->
-> Live as if you will die tomorrow
+> "Learn as if you will live forever, live as if you will die tomorrow."
 
 ## GitHub Resources
 - [anything_about_game](https://github.com/killop/anything_about_game) 
