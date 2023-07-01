@@ -59,6 +59,8 @@
 
 ## About Unity
 
-##Game Hacking & Reverse Engineering
+## Game Hacking & Reverse Engineering
+- [Game Hacking Resources](https://github.com/dsasmblr/game-hacking)
+- [What is Reverse Engineering](https://youtu.be/0_Eif2qGK7I)
 
 
