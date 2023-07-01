@@ -37,5 +37,6 @@
 ## Anime To Boost Your Motivation About GameDevelopment
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
 <h1 align="center">Self-interest</h1>
+
 ## Game Design Books
-- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by Jesse Schell
+- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)by Jesse Schell
