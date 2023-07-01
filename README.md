@@ -28,6 +28,8 @@
 - [gameindustry.biz](https://www.gamesindustry.biz)
 - [Facebook Thai Game Industry Career](https://m.facebook.com/groups/ThaiGameCareerGroup/?ref=share)
 - [Facebook Thai Game Developers Corner (TGDC)](https://m.facebook.com/groups/thaigamepad/?ref=share)
+- [Unity Blog](https://blog.unity.com/)
+- [Unreal Engine News & Blog](https://www.unrealengine.com/en-US/feed)
 
 ## Anime To Boost Your Motivation About GameDevelopment
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
