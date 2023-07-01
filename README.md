@@ -60,6 +60,7 @@
 ## About Unity
 
 ## Game Hacking & Reverse Engineering
+### ⚠️Well… Hacking is a **double-edged sword** pls use your knowledge for the greater good and never use knowledge you learned to harm people.
 - [Game Hacking Resources](https://github.com/dsasmblr/game-hacking)
 - [What is Reverse Engineering](https://youtu.be/0_Eif2qGK7I)
 - [How to Reverse Engineering](https://youtu.be/suABtb8_2Zk)
