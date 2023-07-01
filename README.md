@@ -1,4 +1,4 @@
-# GameDevArchives
+# 📝GameDevArchives
 "We don't always control what happens to us. But we always control how we interpret what happens to us, as well as how we respond." -Mark Manson
 
 ## GitHub Resources
@@ -41,7 +41,7 @@
 ## Anime To Boost Your Motivation
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
 
-# Self-interest
+# 📝Self-interest
 
 ## Game Design Books
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by **Jesse** 
