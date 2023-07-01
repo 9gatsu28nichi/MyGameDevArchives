@@ -51,5 +51,6 @@
 ### GitHub Resources
 #### URP
 - https://github.com/ColinLeung-NiloCat
+- https://github.com/ChiliMilk/URP_Toon
 
 
