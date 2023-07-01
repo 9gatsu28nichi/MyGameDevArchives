@@ -40,6 +40,10 @@
 ## Anime To Boost Your Motivation
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
 
+<div align="center">
+<img src="https://media.tenor.com/Xpbd9r2-tCsAAAAC/aoba-new-game.gif" width="300px">
+</div>
+
 # 📝Self-interest
 This section focuses on my personal areas of interest, which include game graphics, game hacking, and books. I hope you all find these topics beneficial as well.
 ## Game Design Books
