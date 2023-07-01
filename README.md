@@ -34,7 +34,8 @@
 - [Game Developer](https://www.gamedeveloper.com/)
 - [Medium](https://medium.com/tag/game-development)
 
-## Medium Resource
+## My Medium Resource
+- https://medium.com/@liseishun889/list/338193aa212e
 
 ## Anime To Boost Your Motivation About GameDevelopment
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
