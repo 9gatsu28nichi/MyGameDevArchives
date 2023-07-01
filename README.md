@@ -41,7 +41,7 @@
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
 
 # 📝Self-interest
-
+This section focuses on my personal areas of interest, which include game graphics, game hacking, and books. I hope you all find these topics beneficial as well.
 ## Game Design Books
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965) by **Jesse** 
 
