@@ -48,7 +48,6 @@
 ## Game Graphic
 ### Books
 - [The Unity Shaders Bible](https://www.amazon.com/Unity-Shaders-Bible-explanation-professional/dp/B0B4L6VQNF)
-<br>
 ### GitHub Resources
 #### URP
 - https://github.com/ColinLeung-NiloCat
