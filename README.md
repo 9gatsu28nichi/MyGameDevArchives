@@ -12,7 +12,7 @@
 
 ## Industry Insight TH/ENG
 - [Game Industry Value Chain](https://www.slideshare.net/missstevenson01/game-value-chain)
-- [Door Problem by **Liz England**](https://lizengland.com/blog/2014/04/the-door-problem/)
+- [Door Problem](https://lizengland.com/blog/2014/04/the-door-problem/) by **Liz England**
 - [Careers in games - ScreenSkills](https://www.screenskills.com/job-profiles/browse/games/)
 - [Let's discuss about missunderstanding of Game Producer, Game Designer, and Game Testing Role](https://www.blockdit.com/posts/60026e3fd349950cc8f787d7?fbclid=IwAR0RDqjzH3AZr5hjVg-mmoGsshKQTJOZyFx0wgCvG6t0U50PMJkqIW8FK3g_aem_AbyEy30ibJVvnmrOicSdZeaXSR7K1zMWnCsVvDcanUKGIPHdr_Cw_NRrZTMfpsN3FDU)  by **Nattha Kunruchatapairoj**
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit) by **@EvvaKarr**
