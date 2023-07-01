@@ -4,6 +4,7 @@
 ## GitHub Resources
 - [anything_about_game](https://github.com/killop/anything_about_game) 
 - [game-book-list](https://github.com/killop/game-book-list)
+- [study path for game programmer](https://github.com/miloyip/game-programmer)
 
 ## Google Sheet Resources
 - [**Alan's** Gamedev Resources Sheet](https://docs.google.com/spreadsheets/d/11g8MCMFNrBM0CXIWrT8bej5vqR1fCJGMhoFfbS5ph3Q/edit?usp=drivesdk)
