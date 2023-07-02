@@ -65,7 +65,7 @@ This section focuses on my personal areas of interest, which include game graphi
 - https://github.com/Unity-Technologies/PostProcessing
 
 ## Game Hacking & Reverse Engineering
-⚠️**THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES!!!** hacking is a **double-edged sword** pls use your knowledge for the greater good and never use knowledge you learned to harm people.
+⚠️THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES!!! hacking is a **double-edged sword** pls use your knowledge for the greater good and never use knowledge you learned to harm people.
 
 ### Resources
 - [Game Hacking Resources](https://github.com/dsasmblr/game-hacking)
