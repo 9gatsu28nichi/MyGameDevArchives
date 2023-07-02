@@ -42,7 +42,7 @@
 - [Game Development and Creative Production](https://myanimelist.net/stacks/31231)
 
 <div align="center">
-<img src="https://media.tenor.com/Xpbd9r2-tCsAAAAC/aoba-new-game.gif" width="300px">
+<img src="https://media.tenor.com/NYrgLNGuy7YAAAAC/the-c-programming-language-uncle-dane.gif" width="300px">
 </div>
 
 # 📝Self-interest
