@@ -28,6 +28,7 @@
 - [ประสบการณ์การทำงานของกราฟิกโปรแกรมเมอร์ในบริษัท AAA](https://www.youtube.com/live/WdCaXoJ9Fpg?feature=share)
 - [แนะแนวเกมดีไซน์โดยคนไทยใน SQUARE ENIX](https://www.youtube.com/live/Pau5P1VRb9s?feature=share)
 - [คุยกับหัวหน้าฝ่ายจาก Creative Assembly](https://www.youtube.com/live/TCLHFhhHhHY?feature=share)
+- [Math for Games Dev](https://youtube.com/playlist?list=RDCMUC7M-Wz4zK8oikt6ATcoTwBA&playnext=1) by Freya Holmer
 ## News Resources and Community TH/ENG
 - [Game Development Conference GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 - [gameindustry.biz](https://www.gamesindustry.biz)
