@@ -19,6 +19,7 @@
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit) by **@EvvaKarr**
 - [แนะนำการเขียน Game Design Document: ส่วน Design Goal](https://tuangd.com/2023/06/28/แนะนำการเขียน-game-design-document-ส่วน-design-goal/?fbclid=IwAR2U6lSwHrMcQnSrdEIh8XTy-dCHz7IbdxjoZtTYUHi_0KtcIe3rzklpU44_aem_AfSLbLo5ZpaY-fKEYs6NNUE4kHyDrypgAzaATNCa3qjogcI2BucKBhT50yH3EU-oMiU) by **Tuang Dheandhanoo**
 - https://www.gamesjobsdirect.com/job/sucker-punch-productions/narrative-writer-remotehybrid/231784
+- [Portfolio](https://www.linkedin.com/posts/yaratb_key-elements-for-a-strong-portfolio-activity-6998690863862218752-6yRO)
 
 ## Twitter Resources
 - [Steam Dev Cheat Sheet](https://twitter.com/richtaur/status/1650501596894351360?t=cgAKoTIt26AHqIEVr8ADQQ&s=19)
