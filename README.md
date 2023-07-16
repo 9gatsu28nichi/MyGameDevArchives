@@ -78,6 +78,7 @@ This section focuses on my personal areas of interest, which include game graphi
 - [Game-Cheating-Turtorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial#%E7%AA%97%E5%8F%A3%E9%87%8D%E5%8F%A0window-overlap)
 - [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
 - [GameExtractor](https://github.com/wattostudios/GameExtractor)
+- [puyotools](https://github.com/nickworonekin/puyotools)
 ### Tools
 - [noclip](https://github.com/magcius/noclip.website)
 - [Cheat Engine](https://github.com/cheat-engine/cheat-engine)
