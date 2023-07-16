@@ -71,14 +71,11 @@ This section focuses on my personal areas of interest, which include game graphi
 ⚠️THIS PROJECT WAS CREATED FOR EDUCATIONAL PURPOSES!!! hacking is a **double-edged sword** pls use your knowledge for the greater good and never use knowledge you learned to harm people.
 
 ### Resources
+-[https://github.com/killop/anything_about_game#archive-gamereverse](archive-gamereverse)
 - [Game Hacking Resources](https://github.com/dsasmblr/game-hacking)
 - [What is Reverse Engineering](https://youtu.be/0_Eif2qGK7I)
 - [How to Reverse Engineering](https://youtu.be/suABtb8_2Zk)
 - [Introduction To Learn Game Hacking](https://medium.com/ax1al/introduction-to-game-hacking-fb70e29de60f)
-- [Game-Cheating-Turtorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial#%E7%AA%97%E5%8F%A3%E9%87%8D%E5%8F%A0window-overlap)
-- [Unity-game-hacking](https://github.com/imadr/Unity-game-hacking)
-- [GameExtractor](https://github.com/wattostudios/GameExtractor)
-- [puyotools](https://github.com/nickworonekin/puyotools)
 ### Tools
 - [noclip](https://github.com/magcius/noclip.website)
 - [Cheat Engine](https://github.com/cheat-engine/cheat-engine)
