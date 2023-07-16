@@ -76,6 +76,7 @@ This section focuses on my personal areas of interest, which include game graphi
 - [How to Reverse Engineering](https://youtu.be/suABtb8_2Zk)
 - [5 Best Resources To Learn Game Hacking](https://medium.com/edopedia/learn-game-hacking-4b357c377aa1)
 - [Introduction To Learn Game Hacking](https://medium.com/ax1al/introduction-to-game-hacking-fb70e29de60f)
+- [Game-Cheating-Turtorial](https://github.com/BeneficialCode/Game-Cheating-Tutorial#%E7%AA%97%E5%8F%A3%E9%87%8D%E5%8F%A0window-overlap)
 ### Tools
 - [noclip](https://github.com/magcius/noclip.website)
 - [Cheat Engine](https://github.com/cheat-engine/cheat-engine)
