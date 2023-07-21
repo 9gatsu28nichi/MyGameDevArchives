@@ -72,6 +72,7 @@ This section focuses on my personal areas of interest, which include game graphi
 
 ### Resources
 - [archive-gamereverse](https://github.com/killop/anything_about_game#archive-gamereverse)
+- [game-reversing](https://github.com/kovidomi/game-reversing)
 - [Game Hacking Resources](https://github.com/dsasmblr/game-hacking)
 - [What is Reverse Engineering](https://youtu.be/0_Eif2qGK7I)
 - [How to Reverse Engineering](https://youtu.be/suABtb8_2Zk)
