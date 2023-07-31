@@ -59,8 +59,9 @@ This section focuses on my personal areas of interest, which include game graphi
 ## Game Graphic
 ### Books
 - [The Unity Shaders Bible](https://www.amazon.com/Unity-Shaders-Bible-explanation-professional/dp/B0B4L6VQNF)
-### GitHub Resources
+### Resources
 - https://github.com/youandhubris/HLSL-Library
+- https://youtu.be/x0hFSdfOM2s
 ### Unity Shader
 - https://github.com/ColinLeung-NiloCat
 - https://github.com/ChiliMilk/URP_Toon
