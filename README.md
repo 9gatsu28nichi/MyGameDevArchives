@@ -5,6 +5,15 @@
 - [anything_about_game](https://github.com/killop/anything_about_game) 
 - [game-book-list](https://github.com/killop/game-book-list)
 - [study path for game programmer](https://github.com/miloyip/game-programmer)
+  
+## Couses
+- [Game Design: Art and Concepts Specialization – CALARTS](https://www.coursera.org/specializations/game-design)
+- [Course II: Story and Narrative Development for Video Games [by Dariush Derakhshani](https://www.coursera.org/learn/video-game-story)
+- [How to Write Three Act Structure - 2024 – MasterClass](https://www.masterclass.com/articles/how-to-write-three-act-structure)
+- [Five-Act Structure: How to Write Five-Act Structures - 2024 – MasterClass](https://www.masterclass.com/articles/five-act-structure)
+- [How to Create Central Conflict: The 6 Types of Central Conflict - 2024 – MasterClass](https://www.masterclass.com/articles/how-to-create-central-conflict)
+- [Freytag's Pyramid and the Three-Act Plot Structure — D. William Landsborough](https://www.dlandsborough.com/blog/2017/7/11/freytags-pyramid-and-the-three-act-plot-structure)
+- [PPT - Freytag’s Pyramid PowerPoint Presentation, free download - ID:148423](https://www.slideserve.com/Gabriel/freytag-s-pyramid)
 
 ## Google Sheet Resources
 - [**Alan's** Gamedev Resources Sheet](https://docs.google.com/spreadsheets/d/11g8MCMFNrBM0CXIWrT8bej5vqR1fCJGMhoFfbS5ph3Q/edit?usp=drivesdk)
@@ -31,6 +40,7 @@
 - [แนะแนวเกมดีไซน์โดยคนไทยใน SQUARE ENIX](https://www.youtube.com/live/Pau5P1VRb9s?feature=share)
 - [คุยกับหัวหน้าฝ่ายจาก Creative Assembly](https://www.youtube.com/live/TCLHFhhHhHY?feature=share)
 - [Math for Games Dev](https://youtube.com/playlist?list=RDCMUC7M-Wz4zK8oikt6ATcoTwBA&playnext=1) by **Freya Holmer**
+- [The Three Pillars of Game Writing - Plot, Character, Lore - Extra Credits](https://www.youtube.com/watch?v=wNNXdoj7cCQ)
 ## News Resources and Community TH/ENG
 - [Game Development Conference GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 - [gameindustry.biz](https://www.gamesindustry.biz)
