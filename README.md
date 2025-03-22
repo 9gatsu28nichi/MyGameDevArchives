@@ -78,7 +78,6 @@ This section focuses on my personal areas of interest, which include game graphi
 - https://github.com/NoiRC256/URPSimpleGenshinShaders
 - https://github.com/Unity-Technologies/PostProcessing
 
-## Game Hacking & Reverse Engineering
 ### Resources
 - [archive-gamereverse](https://github.com/killop/anything_about_game#archive-gamereverse)
 - [game-reversing](https://github.com/kovidomi/game-reversing)
